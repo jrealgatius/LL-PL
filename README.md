@@ -1,4 +1,4 @@
 # LLEPALI
 Llepali project
 
-Llarg Estratègic Pa d'Analisis Integral
+Llarg Estratègic Pla d'Analisis Integral

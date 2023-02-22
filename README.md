@@ -1,7 +1,11 @@
-# LLEPALI
-Llepali project
+# LL-PL
+LL-PL project
 
-Llarg Estratègic Pla d'Analisis Integral
+Pla d'Analisis Integral
 
-Aquesta linea es desde RStudio
+Gènesis del sistema d'anàlisi de dades basat en conductors
+
+
+
+
 
